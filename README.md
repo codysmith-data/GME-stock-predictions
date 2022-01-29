@@ -93,6 +93,4 @@ Here is the predicted data for this confidence:
 
 ![GME_stock_predictions](https://user-images.githubusercontent.com/58944210/147838872-3da09014-de7e-4b33-9588-6c5533ae4414.png)
 
-This is zoomed into the predicted data for clarity.
-
 So, predictions were successfully made, but 85% isn't a confidence I recommend making investments on. Perhaps a different model would have a higher confidence.
